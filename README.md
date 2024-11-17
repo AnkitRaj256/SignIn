@@ -6,9 +6,7 @@
 ---
 
 ## **Live Demo**
-<video controls width="800">
-  <source src="Images/Preview.mp4" type="video/mp4">
-</video>
+https://github.com/AnkitRaj256/SignIn/blob/main/Images/Preview.mp4
 
 ---
 ## **Table of Contents**
